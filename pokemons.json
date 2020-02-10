@@ -1,0 +1,182 @@
+[
+  {
+    "id": 24,
+    "name": "Bulbasaur",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "price": 26.99
+  },
+  {
+    "id": 25,
+    "name": "Ivysaur",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "price": 49.99
+  },
+  {
+    "id": 26,
+    "name": "Venusaur",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "price": 99.99
+  },
+  {
+    "id": 27,
+    "name": "Charmander",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "price": 19.99
+  },
+  {
+    "id": 28,
+    "name": "Charmeleon",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "price": 39.99
+  },
+  {
+    "id": 29,
+    "name": "Charizard",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "price": 79.99
+  },
+  {
+    "id": 30,
+    "name": "Squirtle",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "price": 14.99
+  },
+  {
+    "id": 31,
+    "name": "Wartortle",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "price": 59.99
+  },
+  {
+    "id": 32,
+    "name": "Blastoise",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "price": 109.99
+  },
+  {
+    "id": 33,
+    "name": "Caterpie",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "price": 19.99
+  },
+  {
+    "id": 34,
+    "name": "Metapod",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "price": 29.99
+  },
+  {
+    "id": 35,
+    "name": "Butterfree",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "price": 49.99
+  },
+  {
+    "id": 36,
+    "name": "Weedle",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "price": 9.99
+  },
+  {
+    "id": 37,
+    "name": "Kakuna",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "price": 14.99
+  },
+  {
+    "id": 38,
+    "name": "Beedrill",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "price": 29.99
+  },
+  {
+    "id": 39,
+    "name": "Pidgey",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "price": 9.99
+  },
+  {
+    "id": 40,
+    "name": "Pidgeotto",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "price": 19.99
+  },
+  {
+    "id": 41,
+    "name": "Pidgeot",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "price": 49.99
+  },
+  {
+    "id": 42,
+    "name": "Rattata",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "price": 6.99
+  },
+  {
+    "id": 43,
+    "name": "Raticate",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+    "price": 14.99
+  },
+  {
+    "id": 44,
+    "name": "Spearow",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+    "price": 29.99
+  },
+  {
+    "id": 45,
+    "name": "Fearow",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+    "price": 69.99
+  },
+  {
+    "id": 46,
+    "name": "Ekans",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+    "price": 17.99
+  },
+  {
+    "id": 47,
+    "name": "Arbok",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+    "price": 29.99
+  },
+  {
+    "id": 48,
+    "name": "Pikachu",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "price": 79.99
+  },
+  {
+    "id": 49,
+    "name": "Raichu",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+    "price": 199.99
+  },
+  {
+    "id": 50,
+    "name": "Sandshrew",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+    "price": 19.99
+  },
+  {
+    "id": 51,
+    "name": "Sandslash",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+    "price": 29.99
+  },
+  {
+    "id": 52,
+    "name": "Nidoran",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+    "price": 19.99
+  },
+  {
+    "id": 53,
+    "name": "Nidorina",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+    "price": 49.99
+  }
+]
