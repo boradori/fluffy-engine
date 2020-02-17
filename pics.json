@@ -37,7 +37,7 @@
   },
   {
     "id": 7,
-    "name": "A Tall Building You Will Never Buy",
+    "name": "A Tall Building",
     "url": "https://github.com/boradori/fluffy-engine/blob/master/images/pic7.jpg?raw=true",
     "price": 9999.99
   },
@@ -115,7 +115,7 @@
   },
   {
     "id": 20,
-    "name": "Somewhere Over The Rainbow",
+    "name": "Pacific Northwest",
     "url": "https://github.com/boradori/fluffy-engine/blob/master/images/pic20.jpg?raw=true",
     "price": 18.99
   },
